@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_chats"
+        android:icon="@drawable/ic_chats"
+        android:title="Chats" />
+
+    <item
+        android:id="@+id/navigation_contacts"
+        android:icon="@drawable/ic_contacts"
+        android:title="Contacts" />
+
+    <item
+        android:id="@+id/navigation_feeds"
+        android:icon="@drawable/ic_feeds"
+        android:title="Feeds" />
+
+    <item
+        android:id="@+id/navigation_discover"
+        android:icon="@drawable/ic_discover"
+        android:title="Discover"/>
+
+    <item
+        android:id="@+id/navigation_me"
+        android:icon="@drawable/ic_me"
+        android:title="Me"/>
+
+</menu>

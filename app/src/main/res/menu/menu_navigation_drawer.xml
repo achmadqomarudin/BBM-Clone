@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_invites"
+            android:icon="@drawable/ic_md_invites"
+            android:title="Invites" />
+        <item
+            android:id="@+id/nav_channels"
+            android:icon="@drawable/ic_md_channels"
+            android:title="Channels" />
+        <item
+            android:id="@+id/nav_scan_barcode"
+            android:icon="@drawable/ic_md_qrcode"
+            android:title="Scan Barcode" />
+        <item
+            android:id="@+id/nav_report"
+            android:icon="@drawable/ic_md_report"
+            android:title="Report a Problem" />
+
+        <item
+            android:id="@+id/nav_help"
+            android:icon="@drawable/ic_md_help"
+            android:title="Help" />
+    </group>
+</menu>
